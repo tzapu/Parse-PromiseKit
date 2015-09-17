@@ -8,6 +8,7 @@
 #import <Foundation/Foundation.h>
 #import <Parse.h>
 #import <ParseUI/ParseUI.h>
+#import <ParseTwitterUtils.h>
 
 @class PMKPromise;
 
